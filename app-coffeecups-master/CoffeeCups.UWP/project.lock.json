@@ -24652,10 +24652,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\High\\Live_Source\\FHM\\app-coffeecups-master\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
+      "projectUniqueName": "D:\\High\\Live_Source\\MobileCenter\\CoffeCup\\CofeeCup\\app-coffeecups-master\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
       "projectName": "CoffeeCups.UWP",
-      "projectPath": "D:\\High\\Live_Source\\FHM\\app-coffeecups-master\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
-      "projectJsonPath": "D:\\High\\Live_Source\\FHM\\app-coffeecups-master\\CoffeeCups.UWP\\project.json",
+      "projectPath": "D:\\High\\Live_Source\\MobileCenter\\CoffeCup\\CofeeCup\\app-coffeecups-master\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
+      "projectJsonPath": "D:\\High\\Live_Source\\MobileCenter\\CoffeCup\\CofeeCup\\app-coffeecups-master\\CoffeeCups.UWP\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
